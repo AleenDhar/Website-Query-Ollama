@@ -10,9 +10,9 @@ In the main directory install all dependencies
    Visit https://ollama.com/ and  download ollama
 3. Download llama2 using ollama
    open terminal and type
-   ```
-   ollama pull llama2
-   ```
+```
+ollama pull llama2
+```
 
 ## Running The Main Script
 
