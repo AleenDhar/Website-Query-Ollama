@@ -1,4 +1,4 @@
-# Fraud Detection with Blockchain and AI
+# Website Query using Ollama
 
 ## Setup
 In the main directory install all dependencies
